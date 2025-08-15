@@ -1,1 +1,2 @@
-iamfelipepaiva.github.io/about-me/
+iamfelipepaiva.github.io/about/
+
